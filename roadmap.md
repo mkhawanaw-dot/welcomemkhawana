@@ -5,3 +5,4 @@
 - [x] Identify missing personal facts without inventing credentials.
 - [x] Replace the placeholder headshot with the owner's own photo (framed portrait in the opening section).
 - [x] Add the full CV to the Download CV button (resume pages only) and replace experience/education/certification placeholders with the owner's real CV facts.
+- [x] Show the owner's real email, GitHub and LinkedIn in the contact section as direct links.
