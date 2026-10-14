@@ -3,4 +3,5 @@
 - [x] Connect and verify private contact submissions.
 - [x] Verify desktop/mobile, navigation and CV download.
 - [x] Identify missing personal facts without inventing credentials.
-- [ ] Replace placeholders with owner-supplied headshot, full CV, exact job titles/dates and Coursera certificates. Blocker: originals not supplied.
+- [x] Replace the placeholder headshot with the owner's own photo (framed portrait in the opening section).
+- [ ] Add the full CV, exact job titles/dates and Coursera certificate titles. Blocker: originals not supplied.
